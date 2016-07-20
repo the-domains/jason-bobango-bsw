@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jason Bobango BSW]]></title>
+        <description><![CDATA[Jason Bobango BSW]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 01:00:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29a370c4-1147-4b2c-bbf0-4b2c71dd60e0.jpg">]]></description>
+            <link>undefinedwelcome-to-the-future-your-future-my-future-the-future/index.html</link>
+            <guid isPermaLink="false">3e837943-8643-4d8e-817d-24446f4a2809</guid>
+            <pubDate>Wed, 20 Jul 2016 01:00:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
